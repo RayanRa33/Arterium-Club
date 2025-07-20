@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Arteriume - Artistic Community at UM6SS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 15px;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    section {
+      background: #fff;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      text-align: center;
+      color: #555;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Arteriume</h1>
+    <p><em>Artistic Community at UM6SS blending creativity and science</em></p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      Arteriume is a student-led art club at UM6SS dedicated to inspiring creativity through drawing, painting, music, theater, and biomedical art.
+      We organize workshops, events, and collaborative projects to help students express themselves artistically while exploring the intersection of art and science.
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact & Social Media</h2>
+    <ul>
+      <li>Email: <a href="mailto:arteriume@um6ss.edu.ma">arteriume@um6ss.edu.ma</a></li>
+      <li>Instagram: <a href="https://instagram.com/arteriume" target="_blank">@arteriume</a></li>
+      <li>Facebook: <a href="https://facebook.com/arteriume" target="_blank">facebook.com/arteriume</a></li>
+      <li>Website manager: Rayane</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Arteriume | Created by Rayane
+  </footer>
+</body>
+</html>
